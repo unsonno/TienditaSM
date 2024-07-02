@@ -1,4 +1,4 @@
-async function POST(objeto){
+async function Post(objeto){
 
     const apiUrl = "http://localhost:3001/users/"
     
@@ -18,4 +18,4 @@ async function POST(objeto){
         console.error(error);
     }
 }
-export{POST}
+export{Post}

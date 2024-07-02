@@ -5,7 +5,7 @@ import React from 'react'
   return (
   <nav className="navbar navbar-expand-lg navbar-light bg-light">
   <a className="navbar-brand" href="#">
-    TiendaSM
+    ReuseMuebles
   </a>
   <button
     className="navbar-toggler"
@@ -27,17 +27,22 @@ import React from 'react'
       </li>
       <li className="nav-item">
         <a className="nav-link" href="#">
-          Features
+          Products
         </a>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="#">
-          Pricing
+        <a className="nav-link" href='' >
+          Register
         </a>
       </li>
       <li className="nav-item">
         <a className="nav-link disabled" href="#">
-          Disabled
+         Sign In
+        </a>
+      </li>
+      <li className="nav-item">
+        <a className="nav-link" href="#">
+        Contact
         </a>
       </li>
     </ul>

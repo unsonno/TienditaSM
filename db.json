@@ -1,5 +1,22 @@
 {
-    "users": [
-     
-    ]
-  }
+  "users": [
+    {
+      "id": "e1fd",
+      "username": "yael",
+      "password": "123",
+      "state": false
+    },
+    {
+      "id": "38d1",
+      "username": "yael",
+      "password": "123",
+      "state": false
+    },
+    {
+      "id": "6895",
+      "username": "yael",
+      "password": "123",
+      "state": false
+    }
+  ]
+}
