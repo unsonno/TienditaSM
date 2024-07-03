@@ -1,11 +1,12 @@
 import React from 'react'
+import LivingIcon from '@mui/icons-material/Living';
 
 
  function Navbar() {
   return (
   <nav className="navbar navbar-expand-lg navbar-light bg-light">
   <a className="navbar-brand" href="#">
-    ReuseMuebles
+    ReuseFurniture
   </a>
   <button
     className="navbar-toggler"

@@ -17,6 +17,8 @@ const App = () => {
             <Routes>
                 <Route path="/signin" element={<SignIn/>}></Route>
                 <Route path="/login" element={<LogIn/>}></Route>
+
+              
             </Routes>
            </Theme>
         </Router>   
@@ -24,3 +26,8 @@ const App = () => {
   );
 };
 export default App;
+
+
+//<Route path="/home" element={<Productos/>} ></Route>//
+//<Route path= "/contact" element={<Contact/>} ></Route>
+//const user = datos.find(user) //
