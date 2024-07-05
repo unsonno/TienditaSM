@@ -1,6 +1,6 @@
 import { Button } from '@radix-ui/themes';
 import React, { useState } from 'react';
-import { Post } from "./fetch/Post";
+import { Post } from "./signinfetch/Post";
 
 
 const SignIn = () => {
